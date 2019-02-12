@@ -2,7 +2,8 @@
 
 # Pixel Image Extractor
 
-This .bat file extracts Images and Videos stored in pixel / google device's Sub-directories of DCIM/Camera.
+This .bat file extracts Images and Videos stored in pixel / google devices Subdirectories of DCIM/Camera. 
+This is particularly useful for extracting Portrait images which are stored inside individual folders in DCIM.
 
 # How to use this?
 
